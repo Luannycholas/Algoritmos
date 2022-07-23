@@ -9,6 +9,5 @@ int main(void){
 
    printf("Divisao: %d", div);
 
-
    return 0;
 }
